@@ -16,5 +16,5 @@ spec:
   dependsOn:
     - configuration: xpkg.upbound.io/upbound/configuration-rds
       version: ">=v0.0.3"
-    - configuration: xpkg.upbound.io/upbound/configuration-eks
+    - configuration: xpkg.upbound.io/upbound/configuration-ecs
       version: ">=v0.0.3"
